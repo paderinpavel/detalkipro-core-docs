@@ -1,0 +1,15 @@
+/data/
+*.db
+*.key
+*.pem
+*.crt
+*.log
+logs/
+.ssh/
+id_rsa
+id_ed25519
+*.pub
+.idea/
+*.swp
+*.swo
+.DS_Store
