@@ -14,5 +14,4 @@ node_modules/
 .env
 .env.local
 
-# Если будешь использовать локальный сайт (например, MkDocs)
 site/
